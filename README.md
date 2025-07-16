@@ -29,5 +29,5 @@ npx expo start
 - From within the Backend directory run
 
 ```
-node run server.js
+npm start server.js
 ```
