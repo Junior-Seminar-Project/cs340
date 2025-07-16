@@ -3,7 +3,9 @@
 ## Install Node.js
 
 https://nodejs.org/en/download
-Note: You may want to lookup another way to install this.
+
+- Note: You may want to lookup another way to install this.
+  Also, you might need to install JDK.
 
 ## Setup Expo
 
