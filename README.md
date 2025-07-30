@@ -34,6 +34,7 @@ npm start server.js
 
 ## Project Structure
 
+```
 project-root/
 ├── backend/ # Express.js backend
 │ ├── database/ # DB connection, seed scripts, or schema definitions
@@ -58,3 +59,4 @@ project-root/
 │ ├── package-lock.json # Lock file for consistent installs
 │ ├── tsconfig.json # TypeScript compiler configuration
 │ └── app.json # Expo project configuration (name, icon, splash, etc.)
+```
