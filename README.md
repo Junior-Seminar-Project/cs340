@@ -23,6 +23,8 @@ npm install -g expo-cli
 ```
 npx expo start
 ```
+You may have to run ``` npm install ``` if you get an error on startup
+
 
 ## Start Backend
 
